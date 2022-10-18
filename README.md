@@ -4,4 +4,4 @@ author: Balazs B Ujfalussy (ujfalussy.balazs@koki.hu)
 
 All scripts use R (version 4.1.2 (2021-11-01) -- "Bird Hippie")
 
-You can find the scripts in two separate folders dealing with synthetic data (SynthData) or real experimental data (ExpData)
+You can find the scripts in two separate folders dealing with synthetic data (*./SynthData*) or real experimental data (*./ExpData*)
